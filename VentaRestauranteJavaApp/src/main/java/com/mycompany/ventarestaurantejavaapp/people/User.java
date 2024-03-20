@@ -1,6 +1,6 @@
-package people;
+package com.mycompany.ventarestaurantejavaapp.people;
 
-import values.UserTypes;
+import com.mycompany.ventarestaurantejavaapp.values.UserTypes;
 import java.util.Scanner;
 
 public class User { 
