@@ -23,7 +23,8 @@ public class VentaRestauranteJavaApp {
         menu.addDish(dish2);
         menu.addDish(dish3);
         
-        menu.showMenu();
+        menu.showMenu1();
+        menu.showMenu2();
                 
     }
     

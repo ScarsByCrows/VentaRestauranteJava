@@ -18,4 +18,14 @@ public class Dish {
         this.variation = variation;
     }
     
+   public String getName() {
+       return name;
+   }
+
+    public DishTypes getType() {
+        return type;
+    }
+   
+   
+    
 }
